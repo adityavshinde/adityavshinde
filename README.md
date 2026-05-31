@@ -13,25 +13,6 @@
 > A detail-oriented software developer focused on robust backend systems, clean code, and advanced system architecture. I thrive in environments where I can dive deep into operating systems, algorithms, and complex problem-solving.
 
 ---
-
-### Tech Stack & Arsenal
-
-*I believe in picking the right tool for the job. Here is my current system boot sequence:*
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=800&color=38BDF8&vCenter=true&width=600&height=60&lines=>_+Initialize+TechStack.sh...;>_+Loading+Core:+C,+C%2B%2B,+Java,+Python,+JS;>_+Loading+Frameworks:+Spring,+Django,+Flutter;>_+Starting+DevOps:+Docker,+K8s,+Jenkins,+Ansible;>_+All+Systems+Operational." alt="Terminal Tech Stack Animation" />
-  </a>
-</div>
-
-<p align="center">
-  <code>C/C++</code> • <code>Java</code> • <code>Python</code> • <code>JavaScript</code> • <code>SQL</code> • <code>Dart</code><br>
-  <code>Spring Boot</code> • <code>Django</code> • <code>Flutter</code> • <code>MySQL</code><br>
-  <code>Docker</code> • <code>Kubernetes</code> • <code>Jenkins</code> • <code>Ansible</code>
-</p>
-
----
-
 ### Development Activity & Analytics
 
 *A snapshot of my recent coding habits and language focuses.*
@@ -49,3 +30,21 @@
 <div align="center">
   <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 </div>
+
+---
+
+### Tech Stack & Arsenal
+
+*I believe in picking the right tool for the job. Here is my current system boot sequence:*
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=800&color=38BDF8&vCenter=true&width=600&height=60&lines=>_+Initialize+TechStack.sh...;>_+Loading+Core:+C,+C%2B%2B,+Java,+Python,+JS;>_+Loading+Frameworks:+Spring,+Django,+Flutter;>_+Starting+DevOps:+Docker,+K8s,+Jenkins,+Ansible;>_+All+Systems+Operational." alt="Terminal Tech Stack Animation" />
+  </a>
+</div>
+
+<p align="center">
+  <code>C/C++</code> • <code>Java</code> • <code>Python</code> • <code>JavaScript</code> • <code>SQL</code> • <code>Dart</code><br>
+  <code>Spring Boot</code> • <code>Django</code> • <code>Flutter</code> • <code>MySQL</code><br>
+  <code>Docker</code> • <code>Kubernetes</code> • <code>Jenkins</code> • <code>Ansible</code>
+</p>
